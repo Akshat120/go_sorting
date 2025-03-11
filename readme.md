@@ -21,4 +21,4 @@ This is a Go program that benchmarks different sorting algorithms by measuring t
 - **Memory**: 16GB
 
 ## Output for testing machine
-<img width="446" alt="Screenshot 2025-03-11 at 3 23 53 PM" src="https://github.com/user-attachments/assets/07dba027-97bb-44d1-a06e-5497e3eba187" />
+<img width="445" alt="Screenshot 2025-03-11 at 6 39 14 PM" src="https://github.com/user-attachments/assets/001d13b1-234e-4f33-a5b3-cdaf29cc7b1b" />
