@@ -9,6 +9,7 @@ This is a Go program that benchmarks different sorting algorithms by measuring t
   - Insertion Sort
   - Selection Sort
   - Merge Sort
+  - Quick Sort
 - Runs algorithms concurrently using goroutines
 - Measures and displays execution time for each algorithm
 - Uses a randomly generated array of 100,000 integers
