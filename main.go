@@ -36,7 +36,7 @@ func doTask(arr []int32, algo Algo, results [][]int32, idx int, wg *sync.WaitGro
 
 func main() {
 	var wg sync.WaitGroup
-	n := 1000000
+	n := 100000
 	arr := []int32{}
 
 	for range n {
