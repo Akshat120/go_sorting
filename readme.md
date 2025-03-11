@@ -13,5 +13,12 @@ This is a Go program that benchmarks different sorting algorithms by measuring t
 - Measures and displays execution time for each algorithm
 - Uses a randomly generated array of 100,000 integers
 
-## Output
+## Specifications for testing machine
+
+- **Chip**: Apple M4  
+- **CPU**: 10-core (6 performance cores, 4 efficiency cores)  
+- **GPU**: 10-core  
+- **Memory**: Up to 24GB unified memory  
+
+## Output for testing machine
 <img width="446" alt="Screenshot 2025-03-11 at 3 23 53 PM" src="https://github.com/user-attachments/assets/07dba027-97bb-44d1-a06e-5497e3eba187" />
