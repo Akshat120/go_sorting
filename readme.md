@@ -12,3 +12,6 @@ This is a Go program that benchmarks different sorting algorithms by measuring t
 - Runs algorithms concurrently using goroutines
 - Measures and displays execution time for each algorithm
 - Uses a randomly generated array of 100,000 integers
+
+## Output
+<img width="446" alt="Screenshot 2025-03-11 at 3 23 53 PM" src="https://github.com/user-attachments/assets/07dba027-97bb-44d1-a06e-5497e3eba187" />
